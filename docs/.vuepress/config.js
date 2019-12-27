@@ -1,6 +1,7 @@
 'use strict'
 module.exports = {
   title: 'Seeli'
+, base: '/seeli-docs/'
 , description: 'The Object orientated, event driven interactive cli framework'
 , configureWebpack: {
     resolve: {
